@@ -7,7 +7,6 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 Courses | School | Duration | Effort | Prerequisites | Completion 
 :-- | :--: | :--: | :--: | :--:  | :--:
 [Intro to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) | Harvardx | 10 week | 5 hours/week | none
-[Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | none
 
 ## Programming
 
@@ -28,10 +27,6 @@ Courses | School | Duration | Effort | Prerequisites | Completion
 Courses | School | Duration | Effort | Prerequisites | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
 [College Algebra and Problem Solving](https://courses.edx.org/courses/course-v1:ASUx+MAT117x+1T2016/course/) | Arizona State University | 12 weeks | 5-7 hours/week | none 
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks | 6-10 hours/week | College Algebra and Problem Solving
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks | 6-10 hours/week | Calculus 1A: Differentiation
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 weeks | 6-10 hours/week | Calculus 1B: Integration
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | College Algebra and Problem Solving
 [Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 weeks | 5-7 hours/week  | none | yes
 
 
