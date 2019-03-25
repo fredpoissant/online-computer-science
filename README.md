@@ -79,4 +79,4 @@ Courses | School | Duration | Effort | Prerequisites | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
 [Machine Learning](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) | Stanford | 11 weeks | 5-7 hours/week | Linear Algebra - Foundations to Frontiers
 [Database Management Essentials](https://www.coursera.org/learn/database-management) | CU | 7 weeks | 4-6 hours/week | basic programming & CS knowledge
-[Video Game Programming in C++ with Unreal Engine](https://www.udemy.com/unrealcourse/learn/v4/overview) | GameDev.tv | 12 weeks | Basic programming | yes
+[Video Game Programming in C++ with Unreal Engine](https://www.udemy.com/unrealcourse/learn/v4/overview) | GameDev.tv | 12 weeks | 4-6 hours/week | Basic programming | yes
