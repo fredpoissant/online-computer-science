@@ -27,6 +27,7 @@ Courses | School | Duration | Effort | Prerequisites | Completion
 Courses | School | Duration | Effort | Prerequisites | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
 [College Algebra and Problem Solving](https://courses.edx.org/courses/course-v1:ASUx+MAT117x+1T2016/course/) | Arizona State University | 12 weeks | 5-7 hours/week | none 
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | College Algebra and Problem Solving
 [Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 weeks | 5-7 hours/week  | none | yes
 
 
@@ -43,7 +44,7 @@ Courses | School | Duration | Effort | Prerequisites | Completion
 
 Courses | School | Duration | Effort | Prerequisites | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
-[Computer Science: Algorithms, Theory, and Machines](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcs-algorithms-theory-machines) | Princeton | 10 weeks | 2-5 hours/week | Calculus 1 (all), basic programming
+[Computer Science: Algorithms, Theory, and Machines](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcs-algorithms-theory-machines) | Princeton | 10 weeks | 2-5 hours/week | Linear Algebra - Foundations to Frontiers, basic programming
 [Algorithms, Part I](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1) | Princeton | 6 weeks | 6-12 hours/week | Computer Science: Algorithms, Theory, and Machines
 [Algorithms, Part II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2) | Princeton | 6 weeks | 6-12 hours/week | Algorithms, Part I
 
