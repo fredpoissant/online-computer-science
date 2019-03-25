@@ -1,6 +1,6 @@
 # The Open Source Computer Science Degree
 
-This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Engineering major, According to [McGill College's Computer Engineering curriculum] (https://mcgill.ca/study/2018-2019/faculties/science/undergraduate/programs/bachelor-science-bsc-major-software-engineering)
+This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Engineering major, According to [McGill College's Computer Engineering curriculum](https://mcgill.ca/study/2018-2019/faculties/science/undergraduate/programs/bachelor-science-bsc-major-software-engineering)
 
 ## Mandatory Courses
 
