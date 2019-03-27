@@ -68,15 +68,17 @@ Courses | School | Duration | Effort | Prerequisites | Completion
 
 Courses | School | Duration | Effort | Prerequisites | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
-[Parallel Programming in Java](https://www.coursera.org/learn/parallel-programming-in-java) | Rice | 4 weeks | 4-8 hours/week | Java Programming: Build a Recommendation System
-[Concurrent Programming in Java](https://www.coursera.org/learn/concurrent-programming-in-java) | Rice | 4 weeks | 4-8 hours/week | Java Programming: Build a Recommendation System
-[Distributed Programming in Java](https://www.coursera.org/learn/distributed-programming-in-java) | Rice | 4 weeks | 4-8 hours/week | Java Programming: Build a Recommendation System
+[Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)| Stanford | 9 weeks | 6-8 hours/week | none
+[Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| Udacity | 8 weeks | 6 hours/week | Python, object-oriented programming
+[Software Testing](https://www.udacity.com/course/software-testing--cs258) | Udacity | 4 weeks | 6 hours/week | Python, programming experience
+[LAFF - On Programming for Correctness](https://www.edx.org/course/laff-on-programming-for-correctness) | UT Austin | 7 weeks | 6 hours/week | linear algebra
+[Introduction to Parallel Programming](https://www.udacity.com/course/intro-to-parallel-programming--cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_)) | Udacity | 12 weeks | - | C, algorithms
+[Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| Udacity | 8 weeks | 6 hours/week | software engineering in Java
 [Cryptography I ](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcrypto)| Stanford | 7 weeks | 5 hours/week | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data
 
 ### Group D: Applications
 
 Courses | School | Duration | Effort | Prerequisites | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
-[Machine Learning](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) | Stanford | 11 weeks | 5-7 hours/week | Linear Algebra - Foundations to Frontiers
-[Database Management Essentials](https://www.coursera.org/learn/database-management) | CU | 7 weeks | 4-6 hours/week | basic programming & CS knowledge
+[Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | UC San Diego | 30 weeks | 1-5 hours/week | strong programming
 [Video Game Programming in C++ with Unreal Engine](https://www.udemy.com/unrealcourse/learn/v4/overview) | GameDev.tv | 12 weeks | 4-6 hours/week | Basic programming | yes
