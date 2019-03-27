@@ -80,5 +80,6 @@ Courses | School | Duration | Effort | Prerequisites | Completion
 
 Courses | School | Duration | Effort | Prerequisites | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
+[Robotics (Specialization)](https://www.coursera.org/specializations/robotics) | Penn State | 26 weeks | 2-5 hours/week | linear algebra, calculus, programming, probability
 [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | UC San Diego | 30 weeks | 1-5 hours/week | strong programming
 [Video Game Programming in C++ with Unreal Engine](https://www.udemy.com/unrealcourse/learn/v4/overview) | GameDev.tv | 12 weeks | 4-6 hours/week | Basic programming | yes
