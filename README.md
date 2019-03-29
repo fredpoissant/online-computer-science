@@ -1,10 +1,12 @@
-# The Open Source Computer Science Degree
+# The Online Bachelor of Science in Computer Science Degree
 
-This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Engineering major, According to [McGill College's Computer Engineering curriculum](https://mcgill.ca/study/2018-2019/faculties/science/undergraduate/programs/bachelor-science-bsc-major-software-engineering)
+This is a curated list of free courses from reputable universities like MIT, Stanford, and Princeton that satisfy the same requirements as an undergraduate Computer Science major, According to [McGill College's Computer Engineering curriculum](https://mcgill.ca/study/2018-2019/faculties/science/undergraduate/programs/bachelor-science-bsc-major-software-engineering)
 
-## Mandatory Courses
+It is followed by two specializations that would together replace a minor, and thus complete a Bachelor of Science in Computer Science.
 
-### Computer Science Basics
+## Core Courses
+
+### Computer Science 
 
 Courses | School | Duration | Effort | Prerequisites | Completion 
 :-- | :--: | :--: | :--: | :--:  | :--:
@@ -12,8 +14,10 @@ Courses | School | Duration | Effort | Prerequisites | Completion
 [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 week | 5 hours/week | none | yes
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 weeks | 4 hours/week | none | yes
 [Computer Science: Algorithms, Theory, and Machines](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcs-algorithms-theory-machines) | Princeton | 10 weeks | 2-5 hours/week | Linear Algebra - Foundations to Frontiers, basic programming
+[Algorithms, Part I](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1) | Princeton | 6 weeks | 6-12 hours/week | Computer Science: Algorithms, Theory, and Machines
+[Algorithms, Part II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2) | Princeton | 6 weeks | 6-12 hours/week | Algorithms, Part I
 
-### Programming
+### Core Programming
 
 Courses | School | Duration | Effort | Prerequisites | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -26,7 +30,6 @@ Courses | School | Duration | Effort | Prerequisites | Completion
 [Programming Languages, Part A](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages) | UW | 5 weeks | 8-16 hours/week | Object Oriented Programming in Java
 [Programming Languages, Part B](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-b) | UW | 3 weeks | 8-16 hours/week | Programming Languages, Part A
 [Programming Languages, Part C](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-c) | UW | 3 weeks | 8-16 hours/week | Programming Languages, Part B
-[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | UBCx | 6 weeks | 8-10 hours/week | Java Programming: Build a Recommendation System
 
 ### Math
 
@@ -34,6 +37,18 @@ Courses | School | Duration | Effort | Prerequisites | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
 [College Algebra and Problem Solving](https://courses.edx.org/courses/course-v1:ASUx+MAT117x+1T2016/course/) | Arizona State University | 12 weeks | 5-7 hours/week | none 
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | College Algebra and Problem Solving
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | 13 weeks | 6-10 hours/week | pre-calculus
+[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | 13 weeks | 5-10 hours/week | Calculus 1A
+[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | 13 weeks | 5-10 hours/week | Calculus 1B
+[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | 6 weeks | 5-10 hours/week | Calculus 1C
+[Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 weeks | 5-7 hours/week  | none | yes
+
+## Physics
+
+Courses | School | Duration | Effort | Prerequisites | Completion
+:-- | :--: | :--: | :--: | :--: | :--:
+[Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0)<sup>1</sup> | 7 weeks | 8-10 hours/week | calculus, basic mechanics
+[Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0) | 7 weeks | 8-10 hours/week | Electricity and Magnetism, Part 1
 
 ### Systems
 
@@ -43,28 +58,23 @@ Courses | School | Duration | Effort | Prerequisites | Completion
 [Build a Modern Computer from First Principles: From Nand to Tetris II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fnand2tetris2) | Hebrew University of Jerusalem | 6 weeks | 10-15 hours/week | Build a Modern Computer from First Principles: From Nand to Tetris
 [Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923)| Georgia Tech | 8 weeks | 5-8 hours/week | Build a Modern Computer from First Principles: From Nand to Tetris II
 
-## Optional Courses
-
-At least 3 courses from groups A and B, with at least 1 course in each.
-
-At least 5 courses from groups C and D, with at least 3 courses from group C and 1 course from group D.
-
-Those are my choices, but you can find more on McGill's Computer Engineering page.
-
-### Group A: Math
+### Applications
 
 Courses | School | Duration | Effort | Prerequisites | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
-[Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 weeks | 5-7 hours/week  | none | yes
+[Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| 12 weeks | 8-12 hours/week | some programming, basic CS
+[Video Game Programming in C++ with Unreal Engine](https://www.udemy.com/unrealcourse/learn/v4/overview) | GameDev.tv | 12 weeks | 4-6 hours/week | Basic programming | yes
+[Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week | linear algebra
+[Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)| 6 weeks | 12 hours/week | C++ or Java, linear algebra
+[Cryptography I](https://www.coursera.org/course/crypto)| 6 weeks | 5-7 hours/week | linear algebra, probability
+[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | 6 weeks | 8-10 hours/week | Java Programming: Principles of Software Design
+[Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | 6-7 weeks | 8-10 hours/week | Software Engineering: Introduction
 
-### Group B: Computer Science
+## Advanced Programming
 
-Courses | School | Duration | Effort | Prerequisites | Completion
-:-- | :--: | :--: | :--: | :--: | :--:
-[Algorithms, Part I](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1) | Princeton | 6 weeks | 6-12 hours/week | Computer Science: Algorithms, Theory, and Machines
-[Algorithms, Part II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2) | Princeton | 6 weeks | 6-12 hours/week | Algorithms, Part I
+One of the many subsets of advanced CS that can be chosen from. This is the one I chose. You can find more in the Advanced section of the [OSSU Computer Science](https://github.com/ossu/computer-science/blob/dev/README.md#core-cs) ReadMe.
 
-### Group C: Theory
+Must have completed Core programming before attempting this section.
 
 Courses | School | Duration | Effort | Prerequisites | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
@@ -74,12 +84,29 @@ Courses | School | Duration | Effort | Prerequisites | Completion
 [LAFF - On Programming for Correctness](https://www.edx.org/course/laff-on-programming-for-correctness) | UT Austin | 7 weeks | 6 hours/week | linear algebra
 [Introduction to Parallel Programming](https://www.udacity.com/course/intro-to-parallel-programming--cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_)) | Udacity | 12 weeks | - | C, algorithms
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| Udacity | 8 weeks | 6 hours/week | software engineering in Java
-[Cryptography I ](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcrypto)| Stanford | 7 weeks | 5 hours/week | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data
 
-### Group D: Applications
+## Specializations
+
+Those are the two Specializations I have chosen. There are more to chose from in the Secialization section of the [OSSU Computer Science](https://github.com/ossu/computer-science/blob/dev/README.md#core-cs) ReadMe.
+
+### Internet Of Things
 
 Courses | School | Duration | Effort | Prerequisites | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
-[Robotics (Specialization)](https://www.coursera.org/specializations/robotics) | Penn State | 26 weeks | 2-5 hours/week | linear algebra, calculus, programming, probability
-[Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | UC San Diego | 30 weeks | 1-5 hours/week | strong programming
-[Video Game Programming in C++ with Unreal Engine](https://www.udemy.com/unrealcourse/learn/v4/overview) | GameDev.tv | 12 weeks | 4-6 hours/week | Basic programming | yes
+[Internet of Things: How did we get here?](https://www.coursera.org/learn/internet-of-things-history?specialization=internet-of-things) | UC San Diego | 2 weeks | 4-5 hours/week | strong programming
+[Internet of Things V2: DragonBoard™ bring up and community ecosystem](https://www.coursera.org/learn/internet-of-things-dragonboard-version2?specialization=internet-of-things) | UC San Diego | 4 weeks | 4-5 hours/week | Internet of Things: How did we get here?
+[Internet of Things V2: Setting up and Using Cloud Services](https://www.coursera.org/learn/internet-of-things-cloud-services-version2?specialization=internet-of-things) | UC San Diego | 4 weeks | 4-5 hours/week | Internet of Things V2: DragonBoard™ bring up and community ecosystem
+[Internet of Things: Communication Technologies](https://www.coursera.org/learn/internet-of-things-communication?specialization=internet-of-things) | UC San Diego | 4 weeks | 4-5 hours/week | Internet of Things V2: Setting up and Using Cloud Services
+[Internet of Things: Multimedia Technologies](https://www.coursera.org/learn/internet-of-things-multimedia) | UC San Diego | 3 weeks | 4-5 hours/week | Internet of Things: Communication Technologies
+[Internet of Things Capstone V2: Build a Mobile Surveillance System](https://www.coursera.org/learn/internet-of-things-capstone-version2) | UC San Diego | 4 weeks | 4-5 hours/week | Internet of Things: Multimedia Technologies
+
+### Robotics
+
+Courses | School | Duration | Effort | Prerequisites | Completion
+:-- | :--: | :--: | :--: | :--: | :--:
+[Robotics: Aerial Robotics](https://www.coursera.org/learn/robotics-flight?specialization=robotics) | Penn State | 4 weeks | 4-5 hours/week | linear algebra, calculus, programming, probability
+[Robotics: Computational Motion Planning](https://www.coursera.org/learn/robotics-motion-planning?specialization=robotics) | Penn State | 4 weeks | 4-5 hours/week | Robotics: Aerial Robotics
+[Robotics: Mobility](https://www.coursera.org/learn/robotics-mobility?specialization=robotics) | Penn State | 4 weeks | 4-5 hours/week | Robotics: Computational Motion Planning
+[Robotics: Perception](https://www.coursera.org/learn/robotics-perception?specialization=robotics) | Penn State | 4 weeks | 4-5 hours/week | Robotics: Mobility
+[Robotics: Estimation and Learning](https://www.coursera.org/learn/robotics-learning) | Penn State | 4 weeks | 4-5 hours/week | Robotics: Perception
+[Robotics: Capstone](https://www.coursera.org/learn/robotics-capstone) | Penn State | 4 weeks | 4-5 hours/week | Robotics: Perception
