@@ -78,7 +78,9 @@ Courses | School | Duration | Effort | Prerequisites | Completion
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| Udacity | 8 weeks | 6 hours/week | Python, object-oriented programming
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | Udacity | 4 weeks | 6 hours/week | Python, programming experience
 [LAFF - On Programming for Correctness](https://www.edx.org/course/laff-on-programming-for-correctness) | UT Austin | 7 weeks | 6 hours/week | linear algebra
-[Introduction to Parallel Programming](https://www.udacity.com/course/intro-to-parallel-programming--cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_)) | Udacity | 12 weeks | - | C, algorithms
+[Parallel Programming in Java](https://www.coursera.org/learn/parallel-programming-in-java) | Duke | 4 weeks | 4-8 hours/week | Java Programming: Build a Recommendation System, algorithms II
+[Concurrent Programming in Java](https://www.coursera.org/learn/parallel-programming-in-java) | Duke | 4 weeks | 4-8 hours/week | Parrallel Programming in Java
+[Distributed Programming in Java](https://www.coursera.org/learn/parallel-programming-in-java) | Duke | 4 weeks | 4-8 hours/week | Concurrent Programming in Java
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| Udacity | 8 weeks | 6 hours/week | software engineering in Java
 
 ## Specializations
