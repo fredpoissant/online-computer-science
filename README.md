@@ -36,14 +36,14 @@ Courses | School | Duration | Effort | Prerequisites | Completion
 
 Courses | School | Duration | Effort | Prerequisites | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
-[Mathematics for computer science](https://www.coursera.org/learn/mathematics-for-computer-science) | UofL | 6 weeks | 10-13 hours/week | none
+[Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science) | UofL | 6 weeks | 10-13 hours/week | none | yes
 [Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 weeks | 5-7 hours/week  | none | yes
 
 ## Physics
 
 Courses | School | Duration | Effort | Prerequisites | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
-[Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0)<sup>1</sup> | Rice | 7 weeks | 8-10 hours/week | calculus, basic mechanics
+[Electricity and Magnetism, Part 1](https://www.edx.org/course/electricity-magnetism-part-1-ricex-phys102-1x-0)<sup>1</sup> | Rice | 7 weeks | 8-10 hours/week | Mathematics for Computer Science, basic mechanics
 [Electricity and Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0) | Rice | 7 weeks | 8-10 hours/week | Electricity and Magnetism, Part 1
 
 ### Systems
@@ -58,13 +58,13 @@ Courses | School | Duration | Effort | Prerequisites | Completion
 
 Courses | School | Duration | Effort | Prerequisites | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
-[Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| Stanford | 12 weeks | 8-12 hours/week | some programming, basic CS
+[Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about) | Stanford | 12 weeks | 8-12 hours/week | some programming, basic CS
 [Video Game Programming in C++ with Unreal Engine](https://www.udemy.com/unrealcourse/learn/v4/overview) | GameDev.tv | 12 weeks | 4-6 hours/week | Basic programming | yes
-[Machine Learning](https://www.coursera.org/learn/machine-learning)| Stanford | 11 weeks | 4-6 hours/week | linear algebra
-[Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)| UC San Diego 6 weeks | 12 hours/week | C++ or Java, Mathematics for Computer Science
-[Cryptography I](https://www.coursera.org/course/crypto)| 6 weeks | 5-7 hours/week | linear algebra, probability
-[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | 6 weeks | 8-10 hours/week | Java Programming: Principles of Software Design
-[Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | 6-7 weeks | 8-10 hours/week | Software Engineering: Introduction
+[Machine Learning](https://www.coursera.org/learn/machine-learning) | Stanford | 11 weeks | 4-6 hours/week | linear algebra
+[Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | UC San Diego | 6 weeks | 12 hours/week | C++ or Java, Mathematics for Computer Science
+[Cryptography I](https://www.coursera.org/course/crypto) | Stanford | 6 weeks | 5-7 hours/week | Mathematics for Computer Science, probability
+[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | UBC | 6 weeks | 8-10 hours/week | Java Programming: Principles of Software Design
+[Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | UBC | 6-7 weeks | 8-10 hours/week | Software Engineering: Introduction
 
 ## Advanced Programming
 
@@ -74,7 +74,7 @@ Must have completed Core programming before attempting this section.
 
 Courses | School | Duration | Effort | Prerequisites | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
-[Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)| Stanford | 9 weeks | 6-8 hours/week | none
+[Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about) | Stanford | 9 weeks | 6-8 hours/week | none
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| Udacity | 8 weeks | 6 hours/week | Python, object-oriented programming
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | Udacity | 4 weeks | 6 hours/week | Python, programming experience
 [LAFF - On Programming for Correctness](https://www.edx.org/course/laff-on-programming-for-correctness) | UT Austin | 7 weeks | 6 hours/week | linear algebra
