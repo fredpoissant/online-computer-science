@@ -37,6 +37,7 @@ Courses | School | Duration | Effort | Prerequisites | Completion
 Courses | School | Duration | Effort | Prerequisites | Completion
 :-- | :--: | :--: | :--: | :--: | :--:
 [Mathematics for Computer Science](https://www.coursera.org/learn/mathematics-for-computer-science) | UofL | 6 weeks | 10-13 hours/week | none | yes
+[Linear Algebra - Fondations and Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) | UT Austin | 15 weeks | 6 hours/week | Mathematics for Computer Science
 [Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 weeks | 5-7 hours/week  | none | yes
 
 ## Physics
@@ -62,7 +63,7 @@ Courses | School | Duration | Effort | Prerequisites | Completion
 [Video Game Programming in C++ with Unreal Engine](https://www.udemy.com/unrealcourse/learn/v4/overview) | GameDev.tv | 12 weeks | 4-6 hours/week | Basic programming | yes
 [Machine Learning](https://www.coursera.org/learn/machine-learning) | Stanford | 11 weeks | 4-6 hours/week | linear algebra
 [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) | UC San Diego | 6 weeks | 12 hours/week | C++ or Java, Mathematics for Computer Science
-[Cryptography I](https://www.coursera.org/course/crypto) | Stanford | 6 weeks | 5-7 hours/week | Mathematics for Computer Science, probability
+[Cryptography I](https://www.coursera.org/course/crypto) | Stanford | 6 weeks | 5-7 hours/week | Linear Algebra, probability
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | UBC | 6 weeks | 8-10 hours/week | Java Programming: Principles of Software Design
 [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | UBC | 6-7 weeks | 8-10 hours/week | Software Engineering: Introduction
 
@@ -78,6 +79,7 @@ Courses | School | Duration | Effort | Prerequisites | Completion
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| Udacity | 8 weeks | 6 hours/week | Python, object-oriented programming
 [Software Testing](https://www.udacity.com/course/software-testing--cs258) | Udacity | 4 weeks | 6 hours/week | Python, programming experience
 [LAFF - On Programming for Correctness](https://www.edx.org/course/laff-on-programming-for-correctness) | UT Austin | 7 weeks | 6 hours/week | linear algebra
+[LAFF - On Programming for High Performance](https://www.edx.org/course/laff-on-programming-for-high-performance) | UT Austin | 5 weeks | 6 hours/week | Linear Algebra
 [Parallel Programming in Java](https://www.coursera.org/learn/parallel-programming-in-java) | Duke | 4 weeks | 4-8 hours/week | Java Programming: Build a Recommendation System, algorithms II
 [Concurrent Programming in Java](https://www.coursera.org/learn/parallel-programming-in-java) | Duke | 4 weeks | 4-8 hours/week | Parrallel Programming in Java
 [Distributed Programming in Java](https://www.coursera.org/learn/parallel-programming-in-java) | Duke | 4 weeks | 4-8 hours/week | Concurrent Programming in Java
